@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <concept or keyword>
 Date:
 
