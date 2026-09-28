@@ -1,7 +1,7 @@
-# <концепция или ключевое слово>
-Дата:
+# <concept or keyword>
+Date:
 
-**Что я пытался сделать:**
-**Что меня запутало:**
-**Как я разобрался:**
-**Что я узнал:**
+**What I was trying to do:**
+**What confused me:**
+**How I figured it out:**
+**What I learned:**
